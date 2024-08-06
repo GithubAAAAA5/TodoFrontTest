@@ -1,4 +1,4 @@
-let backendHost; //백엔드 호스트 주소 결정
+let backendHost; //백엔드 호스트 주소 결정d
 
 const hostname = window && window.location && window.location.hostname;
 
